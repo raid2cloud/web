@@ -42,7 +42,7 @@ export default function LblocNavbar() {
                   <Link to="/">
                     <img
                       className="block h-8 w-auto rounded-full"
-                      src="/R2C_Web200.png"
+                      src="/R2C_Web200.webp"
                       alt="Raid2Cloud"
                     />
                   </Link>

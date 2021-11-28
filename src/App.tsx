@@ -6,12 +6,14 @@ import PageIndex from './pages';
 
 function App() {
   return (
+    <div className="bg-white">
     <BrowserRouter>
         <Routes>
           <Route path="/" element={<PageIndex />} />
           <Route path="/app" element={<PageIndex />} />
         </Routes>
       </BrowserRouter>
+      </div>
   );
 }
 
