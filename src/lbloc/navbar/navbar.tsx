@@ -41,6 +41,8 @@ export default function LblocNavbar() {
                 <div className="flex-shrink-0 flex items-center">
                   <Link to="/">
                     <img
+                      height="32px"
+                      width="32px"
                       className="block h-8 w-auto rounded-full"
                       src="/R2C_Web200.webp"
                       alt="Raid2Cloud"

@@ -8,7 +8,7 @@ function LblocHeader() {
 
       <div className="bg-gray-800 grid">
         <br/>
-        <img className="justify-self-center rounded-full h-64" src="/R2C_Web_icon.webp"/>
+        <img height="256px" width="256px" className="justify-self-center rounded-full h-64" src="/R2C_Web_icon_256x256.webp"/>
         <br/>
         <h1 className="justify-self-center text-white text-5xl">{"Raid2Cloud"}</h1>
         <h2 className="justify-self-center text-white text-2xl">{t("landing_text")}</h2>
