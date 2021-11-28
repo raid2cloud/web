@@ -88,7 +88,7 @@ class Timer extends Component {
 
     return (
       
-      <div className="mt-6 ml-96 mr-96 p-9 text-center text-white ">
+      <div className=" text-center text-white ">
         <h3 className="justify-self-center text-white text-2xl">{t("soon")}</h3>
         {countDown.years > 0 && (
           <span className="">
