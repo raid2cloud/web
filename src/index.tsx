@@ -4,6 +4,12 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import "./i18n";
+import ReactGA from 'react-ga';
+
+
+
+ReactGA.initialize('G-81YLF1CGXF');
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
